@@ -19,7 +19,7 @@
     "@fortawesome/fontawesome-free-brands": "^5.0.10",
     "@fortawesome/fontawesome-free-solid": "^5.0.10",
     "@fortawesome/vue-fontawesome": "0.0.22",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "element-ui": "^2.9.1",
     "epic-spinners": "^1.0.3",
     "js-base64": "^2.4.5",
